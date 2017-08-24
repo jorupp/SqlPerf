@@ -1,0 +1,6 @@
+/.vs
+/SqlPerf.Func/Properties/PublishProfiles
+/SqlPerf.Func/bin
+/SqlPerf.Func/obj
+/SqlPerf.Func/local.settings.json
+/SqlPerf.Func/*.user
